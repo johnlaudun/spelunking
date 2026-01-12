@@ -1,0 +1,508 @@
+"Don't compare your behind-the-scenes to someone else's highlight reel.",
+"It's better to be kind than to be right.",
+"Stop waiting for tomorrow to start living your life today.",
+"The grass is greener where you water it.",
+"Success is not a destination, it's a journey.",
+"Your vibe attracts your tribe.",
+"Self-care is not selfish.",
+"Your value doesn't decrease based on someone's inability to see your worth.",
+"Trust that the universe has a plan even if you don't understand it yet.",
+"Comparison is the thief of joy.",
+"Let go of what you can't control.",
+"Change your thoughts and you change your world.",
+"Challenges are what make life interesting; overcoming them is what makes life meaningful.",
+"Focus on progress, not perfection.",
+"Life is 10% what happens to us and 90% how we react to it.",
+"The only person you should try to be better than is the person you were yesterday.",
+"Surround yourself with people who lift you higher.",
+"Never underestimate the power of a kind word or gesture.",
+"Success is not about the destination, but the journey you take to get there.",
+"Forgive others not because they deserve forgiveness, but because you deserve peace.",
+"Hardships often prepare ordinary people for an extraordinary destiny.",
+"Life is too short to waste time hating anyone.",
+"Surround yourself with those who see the greatness within you.",
+"Kindness is always fashionable.",
+"Adapt or perish.",
+"Your perspective is your reality.",
+"Don't let the fear of striking out keep you from playing the game.",
+"Happiness is not out there, it's in you.",
+"Don't let the noise of others' opinions drown out your inner voice.",
+"Every day may not be good, but there is something good in every day.",
+"Be the change you wish to see in the world.",
+"Life is like riding a bicycle, to keep your balance you must keep moving.",
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+"Every moment is a fresh beginning.",
+"If you want to fly, give up everything that weighs you down.",
+"Success is not the key to happiness, happiness is the key to success.",
+"Growth is painful, but nothing is as painful as staying stuck somewhere you don't belong.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"The difference between a stumbling block and a stepping stone is how you use it.",
+"Live the life you've imagined.",
+"You are far too smart to be the only thing standing in your way.",
+"In the end, we only regret the chances we didn't take.",
+"Sometimes you win, sometimes you learn.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"When life gives you lemons, make lemonade.",
+"Whatever you decide to do, make sure it makes you happy.",
+"The most effective way to do it is to do it.",
+"Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe and have faith that everything will work out for the best.",
+"Don't be afraid to give up the good to go for the great.",
+"Always believe that something wonderful is about to happen.",
+"Find joy in the journey.",
+"It's never too late to be what you might have been.",
+"Don't watch the clock; do what it does. Keep going.",
+"Mindset is everything.",
+"Focus on the good.",
+"The best way to predict the future is to create it.",
+"Difficult roads often lead to beautiful destinations.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"Life begins at the end of your comfort zone.",
+"The only way to do great work is to love what you do.",
+"Progress is impossible without change.",
+"Let your faith be bigger than your fear.",
+"Do what you can with what you have, where you are.",
+"Embrace the journey and don't worry so much about the destination.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"Always believe that something wonderful is about to happen.",
+"Success is not the key to happiness, happiness is the key to success.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"The most effective way to do it is to do it.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Focus on the good.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Success is not the key to happiness, happiness is the key to success.",
+"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+"Difficult roads often lead to beautiful destinations.",
+"Focus on progress, not perfection.",
+"Surround yourself with people who lift you higher.",
+"Every day may not be good, but there is something good in every day.",
+"Don't let the noise of others' opinions drown out your inner voice.",
+"Your value doesn't decrease based on someone's inability to see your worth.",
+"Adapt or perish.",
+"Your perspective is your reality.",
+"Challenges are what make life interesting; overcoming them is what makes life meaningful.",
+"Kindness is always fashionable.",
+"If you want to fly, give up everything that weighs you down.",
+"Success is not the key to happiness, happiness is the key to success.",
+"Growth is painful, but nothing is as painful as staying stuck somewhere you don't belong.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"The difference between a stumbling block and a stepping stone is how you use it.",
+"Life is like riding a bicycle, to keep your balance you must keep moving.",
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+"Every moment is a fresh beginning.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"When life gives you lemons, make lemonade.",
+"Whatever you decide to do, make sure it makes you happy.",
+"The most effective way to do it is to do it.",
+"Sometimes the best thing you can do is not think, not wonder, not imagine, not obsess. Just breathe and have faith that everything will work out for the best.",
+"Don't be afraid to give up the good to go for the great.",
+"Always believe that something wonderful is about to happen.",
+"Find joy in the journey.",
+"It's never too late to be what you might have been.",
+"Don't watch the clock; do what it does. Keep going.",
+"Mindset is everything.",
+"Focus on the good.",
+"The best way to predict the future is to create it.",
+"Difficult roads often lead to beautiful destinations.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"Life begins at the end of your comfort zone.",
+"The only way to do great work is to love what you do.",
+"Progress is impossible without change.",
+"Let your faith be bigger than your fear.",
+"Do what you can with what you have, where you are.",
+"Embrace the journey and don't worry so much about the destination.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"Always believe that something wonderful is about to happen.",
+"Success is not the key to happiness, happiness is the key to success.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"It's never too late to be what you might have been.",
+"Find joy in the journey.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"No matter how you feel, get up, dress up, show up, and never give up.",
+"The best way to predict the future is to create it.",
+"Creating a life that reflects your values and satisfies your soul is a rare achievement.",
+"Let your faith be bigger than your fear.",
+"Mindset is everything.",
+"Embrace the journey and don't worry so much about the destination.",
+"Always believe that something wonderful is about to happen.",
+"Don't limit your challenges, challenge your limits.",
+"Keep your face always toward the sunshine, and shadows will fall behind you.",
+"Happiness is not the absence of problems, it's the ability to deal with them.",
+"Everyone you meet is fighting a battle you know nothing about. Be kind. Always.",
+"Success is not the key to happiness, happiness is the key to success.",
+"Believe you can and you're halfway there.",
+"Push yourself, because no one else is going to do it for you.",
+"Take the risk or lose the chance.",
+"Good things come to those who hustle.",
+"Be yourself, everyone else is already taken.",
+"Life is a journey, not a destination.",
+"Stay patient and trust your journey.",
+"Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.",
+"The way I see it, if you want the rainbow, you gotta put up with the rain.",
+"Life is 10% what happens to us and 90% how we react to it.",
+"If you fell down yesterday, stand up today.",
+"Happiness is not by chance, but by choice.",
+"Work hard in silence, let success make the noise.",
+"Don't be distracted by criticism. Remember, the only taste of success some people get is to take a bite out of you.",
+"The struggle you're in today is developing the strength you need for tomorrow.",
+"Good things take time.",
+"We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+"The only way to achieve the impossible is to believe it is possible.",
+"What consumes your mind controls your life.",
+"Believe you can and you're halfway there.",
+"Success is not the key to happiness, happiness is the key to success.",
+"Push yourself, because no one else is going to do it for you.",
+"Take the risk or lose the chance.",
+"Good things come to those who hustle.",
+"Be yourself, everyone else is already taken.",
+"Life is a journey, not a destination.",
+"Stay patient and trust your journey.",
+"Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.",
+"The way I see it, if you want the rainbow, you gotta put up with the rain.",
+"Life is 10% what happens to us and 90% how we react to it.",
+"If you fell down yesterday, stand up today.",
+"Happiness is not by chance, but by choice.",
+"Work hard in silence, let success make the noise.",
+"Don't be distracted by criticism. Remember, the only taste of success some people get is to take a bite out of you.",
+"The struggle you're in today is developing the strength you need for tomorrow.",
+"Good things take time.",
+"We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+"The only way to achieve the impossible is to believe it is possible.",
+"What consumes your mind controls your life.",
+"Believe you can and you're halfway there.",
+"Success is not the key to happiness, happiness is the key to success.",
+"Push yourself, because no one else is going to do it for you.",
+"Take the risk or lose the chance.",
+"Good things come to those who hustle.",
+"Be yourself, everyone else is already taken.",
+"Life is a journey, not a destination.",
+"Stay patient and trust your journey.",
+"Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.",
+"The way I see it, if you want the rainbow, you gotta put up with the rain.",
+"Life is 10% what happens to us and 90% how we react to it.",
+"If you fell down yesterday, stand up today.",
+"Happiness is not by chance, but by choice.",
+"Work hard in silence, let success make the noise.",
+"Don't be distracted by criticism. Remember, the only taste of success some people get is to take a bite out of you.","When your phone dies, remember conversations can recharge your spirit."
+"A quiet morning spent offline is richer than a hundred scrolling nights."
+"Delete what clutters your thoughts as often as your inbox."
+"The fastest connection is made eye to eye, not Wi-Fi to Wi-Fi."
+"Comparison is a blurry filter; see your life in your own crystal clarity."
+"Let unread messages wait; present moments do not."
+"Charge your kindness nightly, not just your devices."
+"The more tabs you open, the harder it is to find your own page."
+"Update your values as often as your apps, but keep the core stable."
+"A selfie shows your face, but a smile shows your soul."
+"Scrolling rarely fills what's empty inside—turn pages in a book instead."
+"Silence notifications to hear your own needs ring through."
+"In a world of shares, guard what you cherish."
+"A tweet can’t replace a letter, nor a text a touch."
+"Don’t let life’s highlights hide its honest moments."
+"Protect your peace like you protect your passwords."
+"Echo chambers are cozy, but growth needs open windows."
+"Strengthen your boundaries with two-step verification."
+"Dreams grow offline—nurture them in quiet moments."
+"Recharge away from screens; nature holds forgotten passwords."
+"A full schedule is not a full heart."
+"A meme can lighten the mood, but a kind word lightens the load."
+"Don’t fear missing out on what matters by chasing what’s trending."
+"Curate your feed, but let your friendships run wild."
+"Unplug sometimes; even the stars need the dark to shine."
+"Small talk fills silences, real talk fills souls."
+"Hold onto your wonder harder than your phone."
+"Be wary of bright screens that dim bright dreams."
+"Bandwidth measures speed, not depth."
+"Google can answer many questions, but not why you’re here."
+"Mute drama; subscribe to peace."
+"Listen more than you post."
+"Nothing is private in the cloud; secrets bloom safely in trust."
+"Refresh your goals, not just your feed."
+"Stream gratitude as frequently as music."
+"If a message lingers in your heart, send it."
+"Your worth is not measured by your followers."
+"Invest in screen breaks; the dividends are your sanity."
+"Empathy travels farther than fiber optic lines."
+"Online, everyone can be heard; wisdom listens."
+"Turn off autopilot and wander a new path."
+"Fake news spreads quick; truth grows slow."
+"Remember: algorithms don’t know your soul."
+"You can block negativity, but you must invite joy."
+"Fame collects likes; character collects loyalty."
+"Reboot kindness daily."
+"Leave room for boredom; creativity blooms there."
+"Log out to check in—with yourself."
+"Secure your peace with stronger boundaries than passwords."
+"Patience doesn’t buffer; it builds."
+"Virality is brief; compassion lasts."
+"A full battery means little if your spirit is low."
+"Zoom in on relationships you want to keep."
+"Your pace is not a download speed."
+"Don’t crowd your mind with pop-ups."
+"Speak kindly in DMs and in daylight."
+"Cancel culture punishes; forgiveness heals."
+"Live stories, don’t just post them."
+"Screens light rooms, but laughter lights hearts."
+"Cherish likes, but treasure love."
+"Across the globe or down the street, friendship travels best unplugged."
+"Be present for sunrise, not just the timeline."
+"Cultivate digital manners as earnestly as offline grace."
+"Your browser history is not your legacy."
+"Zoom out: the world is vaster than your feed."
+"Meditation is an original operating system."
+"Don't automate your compassion."
+"Recommended for you isn’t always what’s good for you."
+"The loudest voices aren’t always the wisest."
+"Auto-play makes you miss the pauses."
+"Swiping away feelings leaves them unread."
+"Give second chances, not just second screens."
+"Filter your input more than your selfies."
+"Update kindness—no download required."
+"People are not profiles."
+"Celebrate the honest post, not the perfect one."
+"A viral meme rarely mends a lonely heart."
+"Sync your dreams more often than your calendar."
+"Data is stored, wisdom is shared."
+"Don’t let fear go viral in your mind."
+"Every connection needs a strong signal: honesty."
+"Some best friends have no online presence at all."
+"The world is wide, though your screen is small."
+"Save your energy for real connections."
+"Bookmarks are for sites, not regrets."
+"A watched post doesn’t grow."
+"Pause notifications; let imagination interrupt."
+"Even in a video call, silence can speak."
+"Humblebrags don’t build respect."
+"Kindness is never over bandwidth."
+"Strength lies not in followers, but in faith."
+"The best stories are shared around tables."
+"Don’t cache grudges."
+"Update your gratitude often."
+"Go viral for love, not outrage."
+"Look up—there’s a world beyond every screen."
+"The right swipe is not the same as the right person."
+"Your worth is offline, not in the cloud."
+"Reset expectations, not just passwords."
+"Color outside digital lines."
+"Fears magnify in the dark; open your screen to the sun sometimes."
+"Friends add value, just like a good plug-in."When your phone dies, take it as a sign to notice the world’s quiet songs.
+Beware the promise of infinite scrolls; your time is more precious than their bottomless pits.
+If a screen’s glow replaces the sunrise, you’ve traded the world for a fraction of it.
+Arguments on the internet are like chasing wind; neither side walks away with more substance than they began.
+Your inbox will never be empty, but your mind can be, if you let go for a moment.
+If a message can wait, let it; haste rarely breeds wisdom.
+When technology fails, remember laughter never needs an update.
+Let your meals be slow and your notifications rare.
+Sometimes the wisest reply is none at all.
+Stock your fridge with kindness and your mind with curiosity.
+The person you judge online lives a life you cannot see.
+Exercise your empathy as much as your thumbs.
+A single genuine gesture outshines a hundred hearts on social media.
+Take your shoes off, feel the earth, and remember you’re not entirely digital.
+News comes fast and wisdom comes slow.
+If you feel lost, talk to an old friend before searching for new answers.
+Plan your day as if you’ll have no battery after sunset.
+Silence is the best companion for a crowded mind.
+For every gadget, keep an old skill alive.
+If convenience costs your peace, it is too expensive.
+A quiet morning beats a hundred productivity hacks.
+When worried, water a plant; both of you will feel better.
+Chase experiences, not followers.
+The more you compare, the less you appreciate your own journey.
+Before you share, ask if you’d be proud to say it aloud.
+Facts are heavy, but wisdom floats.
+Save often, in life as in work.
+Not every call needs answering; not every answer needs sharing.
+Your footprints in nature outlast your posts online.
+Find time to seek stars after seeking WiFi all day.
+Seek questions, not just opinions.
+Read a book to stretch your patience and your mind.
+A downloaded map cannot show you kindness.
+Pause before replying to anger; silence often ends the cycle.
+Sometimes the best way out is offline.
+Treat your mind like your home; declutter often.
+Your data is bought and sold, but your spirit is not for sale.
+Don’t let your calendar prevent you from being present.
+Real wisdom is felt, not just learned.
+Gift your attention freely, guard your privacy fiercely.
+At the end of the day, stories heal more than statistics.
+If you wouldn’t plant it in your garden, don’t plant it on the web.
+Practice gratitude like it’s your daily log-in.
+Take a full breath before your first scroll each day.
+The heart has no algorithm.
+When lonely, write a letter – to yourself or to a friend.
+The best updates come from quiet self-reflection.
+Invest in friendships as you do in devices – with care and hope.
+Trust is grown, not downloaded.
+Be careful what you automate; some things are sacred in their slowness.
+When overwhelmed, go outside and let the wind reset your perspective.
+The loudest voices often know the least.
+Apologies are best spoken, not typed.
+If you must multitask, make kindness one of your tasks.
+No app can substitute for patience.
+Dust settles; busy schedules do not.
+Listen to music without doing anything else.
+Value memories more than mementos.
+Learn to hear the silence behind the noise.
+Love rarely speaks in notifications.
+Make time for hobbies that require both your hands and your heart.
+A day without a plan is a day ripe with possibility.
+Humility always fits, no matter the trend.
+Connect to others as if your bandwidth were limited – make every interaction count.
+Let your conversations have the luxury of time.
+If you want to change the world, start by changing your own feed.
+Share generously, but know what is yours alone.
+The answers are not always on the first page of search results.
+If you can’t say something in person, reconsider saying it at all.
+Let patience be your default setting.
+Eye contact is rarer than ever; seek it out often.
+Protect wonder as fiercely as you protect your passwords.
+If you’re searching for peace, close the tabs in your mind.
+Find small rituals to anchor your days.
+The wisest questions are asked with open hearts, not open browsers.
+When your thoughts race, walk at a gentle pace.
+Don’t document every sunset you see; some are meant only for your soul.
+Loyalty cannot be bought, only earned.
+Your self-worth does not rise and fall with the tide of opinions.
+The hardest person to unfollow is your past self.
+Speak less, listen more – especially to yourself.
+Gratitude grows strong roots in quiet moments.
+It’s okay for plans to change as quickly as trends.
+Adjust your direction, not just your brightness.
+Let your ambitions have seasons; growth and rest are both needed.
+There’s more strength in asking than pretending you know.
+Forgive yourself for yesterday’s mistakes as you restart today’s devices.
+Hold space for joy and sorrow; both will visit.
+When you cannot find words, offer kindness instead.
+Complicated gadgets won’t simplify your soul.
+Sometimes the bravest thing you can do is log off.
+The wisest investments are in learning, not things.
+You cannot download meaning; it must be lived.
+Let the weather outside sway your emotions now and then.
+Accept that some problems solve themselves if you let them be.
+Laughter is always an upgrade to your day.
+If you can’t remember the last time you did nothing, schedule it.
+Leave a place, a conversation, or a website better than you found it.
+When in doubt, read poetry.
+Your most valuable data is the record you keep in your heart.
