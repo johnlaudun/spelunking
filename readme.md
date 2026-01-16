@@ -8,3 +8,26 @@ What I propose to do is to devise a collection of prompts designed to elicit suc
 The goal of this project is to determine if LLMs can be used either as a tool to make or as a map itself of culture. Given just how much these things have ingested, given the nature of how not only transformers (the underlying technology) work but also that today's LLMs have been trained and tweaked over a number of generations, it is not clear how useful such an enterprise can
 
 For more: https://johnlaudun.net/2025-07-06-mapping-culture-with-ai/.
+
+## Notes
+
+* [GPT Version Timeline: From GPT-1 to GPT-5](https://www.timesofai.com/industry-insights/gpt-version-timeline/)
+* [Open models by OpenAI | OpenAI](https://openai.com/open-models/)
+* [openai/gpt-oss-120b · Hugging Face](https://huggingface.co/openai/gpt-oss-120b)
+* [openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
+
+### Common Crawl
+* [Common Crawl - Get Started](https://commoncrawl.org/get-started)
+* [commoncrawl/whirlwind-python: A whirlwind tour of Common Crawl's data using Python](https://github.com/commoncrawl/whirlwind-python/)
+
+## Open Source Models
+* [GPT-OSS-120B](https://huggingface.co/openai/gpt-oss-120b)
+* [GPT-OSS-20B](https://huggingface.co/openai/gpt-oss-20b)
+* [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
+* [LLaMA-2](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
+* [Mistral 7B](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)
+* [Mistral 7B Chat](https://huggingface.co/mistralai/Mistral-7B-Chat-v0.1)
+* [Falcon 40B](https://huggingface.co/tiiuae/falcon-40b)
+* [Falcon 7B](https://huggingface.co/tiiuae/falcon-7b)  
+* [Olmo 3](https://www.datocms-assets.com/64837/1765558567-olmo\_3\_technical\_report-4.pdf)
+* [Introducing Mistral 3 | Mistral AI](https://mistral.ai/news/mistral-3)
